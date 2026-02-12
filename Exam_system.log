@@ -1,0 +1,30 @@
+2026-02-12 21:18:26,189-INFO- exam started successfully
+2026-02-12 21:18:26,189-INFO- Exam submitted successfully
+2026-02-12 21:18:26,189-INFO- PASS with marks 200
+2026-02-12 21:18:26,189-INFO- exam started successfully
+2026-02-12 21:18:26,189-INFO- Exam submitted successfully
+2026-02-12 21:18:26,189-INFO- Fail
+2026-02-12 21:21:56,181-INFO- usha :exam started successfully
+2026-02-12 21:21:56,181-INFO- usha: Exam submitted successfully
+2026-02-12 21:21:56,181-INFO- usha : PASS with marks 200
+2026-02-12 21:21:56,189-INFO- fnm :exam started successfully
+2026-02-12 21:21:56,189-INFO- fnm: Exam submitted successfully
+2026-02-12 21:21:56,189-INFO- Fail
+2026-02-12 21:23:25,864-INFO- usha :exam started successfully
+2026-02-12 21:23:25,864-INFO- usha: Exam submitted successfully
+2026-02-12 21:23:39,970-INFO- usha :exam started successfully
+2026-02-12 21:23:39,970-INFO- usha: Exam submitted successfully
+2026-02-12 21:23:39,970-INFO- usha : PASS with marks 200
+2026-02-12 21:23:39,970-INFO- 200 updated_pass_marks
+2026-02-12 21:23:39,970-INFO- fnm :exam started successfully
+2026-02-12 21:23:39,970-INFO- fnm: Exam submitted successfully
+2026-02-12 21:23:39,970-INFO- Fail
+2026-02-12 21:23:39,970-INFO- 150 updated_pass_marks
+2026-02-12 21:36:00,684-INFO- usha :exam started successfully
+2026-02-12 21:36:00,685-INFO- usha: Exam submitted successfully
+2026-02-12 21:36:00,685-INFO- usha : PASS with marks 200
+2026-02-12 21:36:00,685-INFO- 200 updated_pass_marks
+2026-02-12 21:36:00,685-INFO- fnm :exam started successfully
+2026-02-12 21:36:00,685-INFO- fnm: Exam submitted successfully
+2026-02-12 21:36:00,685-INFO- Fail
+2026-02-12 21:36:00,685-INFO- 150 updated_pass_marks
