@@ -1,0 +1,7 @@
+2026-02-12 22:34:39,235-INFO- Usha's order is placed successfully
+2026-02-12 22:34:39,235-INFO- order id 101 | Price: 500 | Tax: 50.0 | Final: 550.0
+2026-02-12 22:34:39,235-INFO- Tax percentage updated to 12%
+2026-02-12 22:34:39,235-INFO- order id 101 | Price: 500 | Tax: 60.0 | Final: 560.0
+2026-02-12 22:34:39,235-INFO- order id 101 is cancelled successfully
+2026-02-12 22:34:39,235-INFO- Order cancelled
+2026-02-12 22:34:39,235-INFO- order id 101 | Price: 500 | Tax: 60.0 | Final: 560.0
