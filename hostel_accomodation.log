@@ -1,0 +1,14 @@
+2026-02-13 10:51:16,980-INFO- room is allocated to usha and room-no is 43h1
+2026-02-13 10:51:16,981-INFO- room rent for one month is 9000
+2026-02-13 10:51:16,981-INFO- updated room rent is 200
+2026-02-13 10:51:16,981-INFO- room already allocated to usha
+2026-02-13 10:51:16,981-INFO- room is vacated by usha
+2026-02-13 10:51:16,981-INFO- room rent for one month is 42000
+2026-02-13 10:51:16,981-INFO- updated room rent is 300
+2026-02-13 10:51:55,494-INFO- room is allocated to usha and room-no is 43h1
+2026-02-13 10:51:55,494-INFO- room rent for 3 months is 9000
+2026-02-13 10:51:55,494-INFO- updated room rent is 200
+2026-02-13 10:51:55,494-INFO- room already allocated to usha
+2026-02-13 10:51:55,494-INFO- room is vacated by usha
+2026-02-13 10:51:55,494-INFO- room rent for 7 months is 42000
+2026-02-13 10:51:55,494-INFO- updated room rent is 300
