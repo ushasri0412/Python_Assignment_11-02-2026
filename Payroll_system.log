@@ -1,0 +1,78 @@
+2026-02-13 06:48:51,586-INFO- Gross Salary of Usha is: 550000.0
+2026-02-13 06:48:51,587-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:49:00,426-INFO- Gross Salary of Usha is: 550000.0
+2026-02-13 06:49:00,427-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:50:06,748-INFO- Gross Salary of Usha is: 550000.0
+2026-02-13 06:50:06,748-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:50:06,759-INFO- Updated HRA percentage is 20
+2026-02-13 06:51:00,129-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 06:51:00,129-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:51:00,157-INFO- Updated HRA percentage is 20
+2026-02-13 06:51:30,788-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 06:51:30,789-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:51:30,801-INFO- Updated HRA percentage is 20
+2026-02-13 06:51:57,387-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 06:51:57,387-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:51:57,405-INFO- Updated HRA percentage is 20
+2026-02-13 06:52:08,113-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 06:52:08,114-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:52:08,132-INFO- Updated HRA percentage is 20
+2026-02-13 06:55:24,197-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 06:55:24,197-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:55:24,210-INFO- Updated HRA percentage is 20
+2026-02-13 06:58:02,970-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 06:58:02,970-INFO- succefully applied leave detection for 4 days
+2026-02-13 06:58:02,991-INFO- Updated HRA percentage is 20
+2026-02-13 07:00:39,318-INFO- Gross Salary of Usha is: 1100.0
+2026-02-13 07:00:39,319-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:00:39,319-INFO- PAY SLIP 
+EMPLOYEE_ID: 1 
+ EMPLOYEE_NAME: Usha
+EMPLOYEE_BASIC_SAL: 1000 
+EMPLOYEE_LEAVE_dEDUCTION: 4000
+EMPLOYEE_TOTAL_GROSS_SAL: 1100.0
+2026-02-13 07:00:39,319-INFO- Updated HRA percentage is 20
+2026-02-13 07:01:37,135-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:01:37,135-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:01:37,136-INFO- PAY SLIP 
+EMPLOYEE_ID: 1 
+ EMPLOYEE_NAME: Usha
+EMPLOYEE_BASIC_SAL: 10000 
+EMPLOYEE_LEAVE_DEDUCTION: 4000
+EMPLOYEE_TOTAL_GROSS_SAL: 11000.0
+2026-02-13 07:01:37,136-INFO- Updated HRA percentage is 20
+2026-02-13 07:02:37,214-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:02:37,214-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:02:37,214-INFO- PAY SLIP 
+EMPLOYEE_ID: 1 
+EMPLOYEE_NAME: Usha
+EMPLOYEE_BASIC_SAL: 10000 
+EMPLOYEE_LEAVE_DEDUCTION: 4000
+EMPLOYEE_TOTAL_GROSS_SAL: 11000.0
+2026-02-13 07:02:37,214-INFO- Updated HRA percentage is 20
+2026-02-13 07:04:46,986-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:04:46,986-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:04:46,986-INFO- PAY SLIP 
+EMPLOYEE_ID: 1 
+EMPLOYEE_NAME: Usha
+EMPLOYEE_BASIC_SAL: 10000 
+EMPLOYEE_LEAVE_DEDUCTION: 400
+EMPLOYEE_TOTAL_GROSS_SAL: 11000.0
+2026-02-13 07:04:46,986-INFO- Updated HRA percentage is 20
+2026-02-13 07:05:47,766-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:05:47,766-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:05:47,766-INFO- PAY SLIP 
+EMPLOYEE_ID: 1 
+EMPLOYEE_NAME: Usha
+EMPLOYEE_BASIC_SAL: 10000 
+EMPLOYEE_LEAVE_DEDUCTION: 400
+EMPLOYEE_TOTAL_GROSS_SAL: 11000.0
+2026-02-13 07:05:47,766-INFO- Updated HRA percentage is 20
+2026-02-13 07:06:21,310-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:06:21,310-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:07:24,472-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:07:24,472-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:07:24,492-INFO- Updated HRA percentage is 20
+2026-02-13 07:10:49,722-INFO- Gross Salary of Usha is: 11000.0
+2026-02-13 07:10:49,725-INFO- succefully applied leave detection for 4 days
+2026-02-13 07:10:49,751-INFO- Updated HRA percentage is 20
